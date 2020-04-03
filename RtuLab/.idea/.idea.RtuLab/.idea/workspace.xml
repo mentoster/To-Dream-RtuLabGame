@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ef2b9e0-2b02-4a15-99bf-24699fe54cc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Users/Dimam/Documents/catapylta/Assets/Scripts/StartScripts/SetBasicValues.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Users/Dimam/Documents/catapylta/Assets/Scripts/HomeScripts/DataHolder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Users/Dimam/Documents/catapylta/Assets/Scripts/HomeScripts/UpdatesData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/Users/Dimam/Documents/GitHub/AK-47-fires-to-the-sound-of-Morgenstern/Ak-47/Assets/Scripts/Melody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/StartParametrs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Editor/ImageEffects/ColorCorrectionLookupEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/PlayVoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/StaticFuntions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Prefabs/MySetting/Scripts/ResumeButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/AnswerOnCall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Prefabs/MySetting/Scripts/VolumeValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Users/Dimam/Documents/catapylta/Assets/Scripts/HomeScripts/PressForStart.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ReadMe/Readme.txt" />
+        <option value="$PROJECT_DIR$/Assets/Game/Prefabs/MySetting/Scripts/GameScripts/PauseManuScripts/ResumeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/PauseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Prefabs/MySetting/Scripts/ResumeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Prefabs/MySetting/Scripts/VolumeValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/VoicesRecord/SubGoodWeather.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/PlayAudioOrVoice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/VoiceControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/StartParametrs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/StaticFuntions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/CanUseButtonE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/PlayVoice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/AnswerOnCall.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zg6UF1wfl4och0jfqcf6kiYXfZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ef2b9e0-2b02-4a15-99bf-24699fe54cc7" name="Default Changelist" comment="" />
+      <created>1585248405224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585248405224</updated>
+      <workItem from="1585248415800" duration="2763000" />
+      <workItem from="1585315790927" duration="6078000" />
+      <workItem from="1585507240861" duration="625000" />
+      <workItem from="1585592360860" duration="1462000" />
+      <workItem from="1585659387593" duration="1000" />
+      <workItem from="1585669930325" duration="446000" />
+      <workItem from="1585671135055" duration="1135000" />
+      <workItem from="1585766179294" duration="4227000" />
+      <workItem from="1585912466847" duration="1501000" />
+      <workItem from="1585915480141" duration="2571000" />
+      <workItem from="1585922269413" duration="26000" />
+      <workItem from="1585922425327" duration="10694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="141" y="134" key="SettingsEditor" timestamp="1585938690969">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1585938690969" />
+  </component>
+</project>
