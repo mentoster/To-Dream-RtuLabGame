@@ -20,7 +20,7 @@ public class PlayVoice : MonoBehaviour
     public bool UseAudioSource=true;
 
     //Использовании m_ToggleChange гарантирует, что звук не воспроизводится несколько раз
-    bool CanPlay=true;
+    private  bool CanPlay=true;
     void Start()
     {
         //Извлечение Аудиоисточника из объекта GameObject
@@ -32,9 +32,9 @@ public class PlayVoice : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
      
-        if (CanPlay== true && VoiceCanPlay.Play==0 )
+        if (CanPlay == true && Statics.AudioNowPlay==0 )
         {
-            VoiceCanPlay.Play = 1;
+            Statics.AudioNowPlay = 1;
             SayToSub();   
             //Воспроизведение аудио, которое вы прикрепляете к компоненту AudioSource
             if(UseAudioSource) 
@@ -46,7 +46,7 @@ public class PlayVoice : MonoBehaviour
         }
     }
     //sub - субтитры
-    //Отображаем субьтитры, и выключаем их через время
+    //Отображаем субтитры, и выключаем их через время
     private void SayToSub()
     {
         Sub.text = "<b>" + WhoSaid + "</b>" + ": " + TextOfVoice;
@@ -56,7 +56,7 @@ public class PlayVoice : MonoBehaviour
     private void DestroySub()
     {
         Sub.text = "";
-        VoiceCanPlay.Play = 0;
+        Statics.AudioNowPlay = 0;
     }
 
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Dimam\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Dimam\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_RtuLab.-1773850923.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Dimam\Desktop\RtuLab" t="IncludeRecursive">
+    <e p="C:\Users\Dimam\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_RtuLab.-1145124919.00" t="ExcludeRecursive" />
+    <e p="D:\Users\Dimam\Documents\GitHub\To-Dream-RtuLabGame\RtuLab" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -305,31 +305,31 @@
             </e>
           </e>
         </e>
-        <e p="Game" t="Include">
-          <e p="Prefabs" t="Include">
-            <e p="MySetting" t="Include">
-              <e p="OffPauseMenuHome.cs" t="Include" />
-              <e p="Scripts" t="Include">
-                <e p="ExitButton.cs" t="Include" />
-                <e p="Restart.cs" t="Include" />
-                <e p="ResumeButton.cs" t="Include" />
-                <e p="SetMusicOrSound.cs" t="Include" />
-                <e p="VolumeValue.cs" t="Include" />
-              </e>
-            </e>
-          </e>
-          <e p="Scripts" t="Include">
-            <e p="AnswerOnCall.cs" t="Include" />
-            <e p="PlayVoice.cs" t="Include" />
-            <e p="StartParametrs.cs" t="Include" />
-            <e p="StaticFuntions.cs" t="Include" />
-          </e>
+        <e p="Memory" t="Include">
           <e p="Textures" t="Include">
             <e p="Readme.txt" t="Include" />
           </e>
         </e>
+        <e p="Prefabs" t="Include">
+          <e p="MySetting" t="Include">
+            <e p="OffPauseMenuHome.cs" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="ExitButton.cs" t="Include" />
+              <e p="Restart.cs" t="Include" />
+              <e p="ResumeButton.cs" t="Include" />
+              <e p="SetMusicOrSound.cs" t="Include" />
+              <e p="VolumeValue.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="ReadMe" t="Include">
           <e p="Readme.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AnswerOnCall.cs" t="Include" />
+          <e p="PlayVoice.cs" t="Include" />
+          <e p="StartParametrs.cs" t="Include" />
+          <e p="StaticFuntions.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

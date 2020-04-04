@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public static class VoiceCanPlay
+public static class Statics
 {
   
-    public static int Play { get; set; }
+    public static int AudioNowPlay { get; set; }
 }
 
 

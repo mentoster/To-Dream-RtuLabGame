@@ -7,7 +7,7 @@ public class StartParametrs : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        VoiceCanPlay.Play = 0;
+        Statics.AudioNowPlay = 0;
     }
     
 }
