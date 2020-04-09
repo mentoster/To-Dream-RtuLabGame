@@ -9,7 +9,7 @@ public class SetMusicOrSound : MonoBehaviour
     // в зависимости  от этого ставится флажок
     private AudioSource _audioSource;
     public bool ItIsMusic=true;
-
+    public float coefficient=1;
     private void Start()
     {
         _audioSource = GetComponent<AudioSource>();
@@ -23,7 +23,7 @@ public class SetMusicOrSound : MonoBehaviour
         }
         else
         {
-            _audioSource.volume= PlayerPrefs.GetFloat("SoundVolume"); 
+            _audioSource.volume= PlayerPrefs.GetFloat("SoundVolume") * coefficient; 
         }
     }
 }

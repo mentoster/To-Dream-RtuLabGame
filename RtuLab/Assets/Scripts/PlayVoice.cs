@@ -1,33 +1,32 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
+
 
 public class PlayVoice : MonoBehaviour
 {
-    AudioSource m_MyAudioSource;
+    AudioSource _mMyAudioSource;
     //кто говорит 
-    public string WhoSaid;
+    public string whoSaid;
     //Добавляем субтитры
-    public string TextOfVoice;
+    public string textOfVoice;
     //Где будут Воспроизводится субтитры
-    private  GameObject SubObj;
+    private  GameObject _subObj;
 
-    private TMP_Text Sub;
+    private TMP_Text _sub;
     //время для субтитров
     public float time;
 
-    public bool UseAudioSource=true;
+     public bool useAudioSource=true;
 
     //Использовании m_ToggleChange гарантирует, что звук не воспроизводится несколько раз
     private  bool CanPlay=true;
     void Start()
     {
         //Извлечение Аудиоисточника из объекта GameObject
-        m_MyAudioSource = GetComponent<AudioSource>();
+        _mMyAudioSource = GetComponent<AudioSource>();
         // Находим объект Субтитров
-        SubObj = GameObject.Find("SubtitresManager");
-        Sub = SubObj.GetComponent<TMP_Text>();
+        _subObj = GameObject.Find("SubManager");
+        _sub = _subObj.GetComponent<TMP_Text>();
     }
     private void OnTriggerEnter(Collider other)
     {
@@ -37,8 +36,8 @@ public class PlayVoice : MonoBehaviour
             Statics.AudioNowPlay = 1;
             SayToSub();   
             //Воспроизведение аудио, которое вы прикрепляете к компоненту AudioSource
-            if(UseAudioSource) 
-                m_MyAudioSource.Play(); 
+            if(useAudioSource) 
+                _mMyAudioSource.Play(); 
 
            
             //запрещаем использовать более
@@ -49,13 +48,13 @@ public class PlayVoice : MonoBehaviour
     //Отображаем субтитры, и выключаем их через время
     private void SayToSub()
     {
-        Sub.text = "<b>" + WhoSaid + "</b>" + ": " + TextOfVoice;
+        _sub.text = "<b>" + whoSaid + "</b>" + ": " + textOfVoice;
         Invoke("DestroySub",time);
     }
 
     private void DestroySub()
     {
-        Sub.text = "";
+        _sub.text = "";
         Statics.AudioNowPlay = 0;
     }
 

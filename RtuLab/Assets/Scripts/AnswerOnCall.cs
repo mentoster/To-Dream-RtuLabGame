@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class AnswerOnCall : MonoBehaviour
 {
     // переменные для  необходимые для отчключения звонка
-    public GameObject TurnOfSoundOfCall;
+     public GameObject turnOfSoundOfCall;
     private AudioSource _offSource;
     //проигрывания диалога
     AudioSource _mMyAudioSource;
@@ -15,50 +13,50 @@ public class AnswerOnCall : MonoBehaviour
     private  GameObject _subObj;
     private TMP_Text _sub;
     public string[] sub = new string[13];
-    private int _whatSubNow=0;
+    private int _whatSubNow;
     
     // ауодио после диалога 
-    public AudioClip GreatNowIMustFindComp;
-    public AudioClip Ahhhhprogrammer;
-    public AudioClip MotivationMusic;
+    public AudioClip greatNowIMustFindComp; 
+    public AudioClip ahhhhprogrammer; 
+    public AudioClip motivationMusic;
 
 
     public GameObject Frolic;
     private SetMusicOrSound _setMusic;
-    private bool _AlredyPressE=false;
+    private bool _alredyPressE=false;
     void Start()
     { 
         _mMyAudioSource = GetComponent<AudioSource>(); 
-        _subObj = GameObject.Find("SubtitresManager");
+        _subObj = GameObject.Find("SubManager");
         _sub = _subObj.GetComponent<TMP_Text>();
-       _offSource=TurnOfSoundOfCall.GetComponent<AudioSource>();
+       _offSource=turnOfSoundOfCall.GetComponent<AudioSource>();
        //необходимо для правильной регулировки звука в меню
        _setMusic = GetComponent<SetMusicOrSound>();
     }
     //Если Нажата клавиша в этой области, выполняем действие
     private void OnTriggerEnter(Collider other)
     {
-        if(!_AlredyPressE)
-        _sub.text = "Нажмите E, чтобы принять вызов";
+        if(!_alredyPressE)
+            _sub.text = "Нажмите E, чтобы принять вызов";
     }
 
     private void OnTriggerStay(Collider other)
     {
         
 
-        if ( Input.GetKeyDown( KeyCode.E ) && !_AlredyPressE )
+        if ( Input.GetKeyDown( KeyCode.E ) && !_alredyPressE )
         {
             _offSource.enabled = false;
             _mMyAudioSource.Play();
             //прекращаем показывать игроку принять вызов
             _sub.text = "";
-            _AlredyPressE = true;
+            _alredyPressE = true;
             PlayDialog();
         }
     }
     private void OnTriggerExit(Collider other)
     {
-        if(!_AlredyPressE)
+        if(!_alredyPressE)
             _sub.text = "";
     }
     // добавление субтитров по  таймингу 
@@ -67,6 +65,7 @@ public class AnswerOnCall : MonoBehaviour
         //через цикл не завернуть, время разное
         //диалог
         _mMyAudioSource.Play();
+        Statics.AudioNowPlay = 1;
         Invoke("PlaySub",0);
         Invoke("PlaySub",4);
         Invoke("PlaySub",8);
@@ -96,13 +95,13 @@ public class AnswerOnCall : MonoBehaviour
     //продолжение игры
     private void PlayNextFrase()
     {
-        _mMyAudioSource.clip = GreatNowIMustFindComp;
+        _mMyAudioSource.clip = greatNowIMustFindComp;
         _mMyAudioSource.Play();
     }
     private void PlayMotivationMusic()
     {
         _setMusic.ItIsMusic= true;
-        _mMyAudioSource.clip = MotivationMusic;
+        _mMyAudioSource.clip = motivationMusic;
         _mMyAudioSource.Play();
     }
 
@@ -115,8 +114,10 @@ public class AnswerOnCall : MonoBehaviour
         PlaySub();
         Frolic.SetActive(false);
         _setMusic.ItIsMusic= false;
-        _mMyAudioSource.clip = Ahhhhprogrammer;
+        _mMyAudioSource.clip = ahhhhprogrammer;
         _mMyAudioSource.Play();
+        //активируем взаимодействие с предметами
+        Statics.level++;
     }
 
 }

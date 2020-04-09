@@ -4,10 +4,15 @@ using UnityEngine;
 
 public class StartParametrs : MonoBehaviour
 {
-    // Start is called before the first frame update
+
     void Start()
-    {
+    {     //задаём стартовые параметры
         Statics.AudioNowPlay = 0;
+        Statics.HowManyItems = 0;
+        if (!PlayerPrefs.HasKey("level"))
+        {
+            Statics.level = 0;
+        }
     }
     
 }
