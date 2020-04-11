@@ -37,7 +37,7 @@ public class ItemsScritpt : MonoBehaviour
     private void OnTriggerStay(Collider other)
     {
      
-        if ( Input.GetKeyDown( KeyCode.E ) && !_alredyPressE && Statics.level!=0)
+        if ( Input.GetKeyDown( KeyCode.E ) && !_alredyPressE && Statics.level==1)
         {
             if (useAudoSource)
             {
@@ -46,7 +46,6 @@ public class ItemsScritpt : MonoBehaviour
                 _gameManager.GetComponent<DeleteSub>().deleteSub(sub[1],subtime);
             }
             takeSound.Play();
-            _sub.text = "";
             _alredyPressE = true;
             Statics.HowManyItems++;
             Debug.Log($"Взят предмет! теперь их {Statics.HowManyItems}");
@@ -58,7 +57,7 @@ public class ItemsScritpt : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if(Statics.level>0)
+        if(Statics.level==1)
             _sub.text = "";
     }
     

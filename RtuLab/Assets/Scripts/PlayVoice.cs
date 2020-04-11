@@ -6,6 +6,7 @@ public class PlayVoice : MonoBehaviour
 {
     AudioSource _mMyAudioSource;
     //кто говорит 
+    public int LevelMax;
     public string whoSaid;
     //Добавляем субтитры
     public string textOfVoice;
@@ -31,7 +32,7 @@ public class PlayVoice : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
      
-        if (CanPlay == true && Statics.AudioNowPlay==0 )
+        if (CanPlay == true && Statics.AudioNowPlay==0 && Statics.level <=LevelMax)
         {
             Statics.AudioNowPlay = 1;
             SayToSub();   

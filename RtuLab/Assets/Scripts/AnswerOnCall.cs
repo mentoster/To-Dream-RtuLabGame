@@ -117,7 +117,9 @@ public class AnswerOnCall : MonoBehaviour
         _mMyAudioSource.clip = ahhhhprogrammer;
         _mMyAudioSource.Play();
         //активируем взаимодействие с предметами
-        Statics.level++;
+        Statics.AudioNowPlay = 0;
+        Statics.level=1;
+        Debug.Log("Уровень сейчас " + Statics.level);
     }
 
 }

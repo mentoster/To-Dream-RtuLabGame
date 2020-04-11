@@ -331,12 +331,13 @@
           <e p="CheckIfHaveAllItem.cs" t="Include" />
           <e p="DeleteSub.cs" t="Include" />
           <e p="ItemsScritpt.cs" t="Include" />
-          <e p="LevelManager.cs" t="Include" />
           <e p="PlayVoice.cs" t="Include" />
           <e p="PuzzlesGame" t="Include">
             <e p="OnPuzzle.cs" t="Include" />
             <e p="PuzzlesManager.cs" t="Include" />
           </e>
+          <e p="SettingMenu.cs" t="Include" />
+          <e p="StartMenuScript.cs" t="Include" />
           <e p="StartParametrs.cs" t="Include" />
           <e p="StaticFuntions.cs" t="Include" />
         </e>

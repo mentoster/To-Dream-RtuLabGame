@@ -148,7 +148,11 @@ namespace PuzzlesGame
 
         private void LoadGameScene()
         {
+            
             Statics.level=2;
+            Debug.Log("Победа, загрузка сцены Game...");
+            Debug.Log("Уровень сейчас "+ Statics.level);
+            
             SceneManager.LoadScene("Game");
         }
  

@@ -2,222 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ef2b9e0-2b02-4a15-99bf-24699fe54cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/Drop.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/Drop.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/Duraki.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/Duraki.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/Motivationmsuic.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/Motivationmsuic.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/PhoneCall.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/PhoneCall.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/TakeObject.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/TakeObject.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/music.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/MusicAndSound/music.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/0.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/PuzzlesSprites/8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Black.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Black.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Red.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Red.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titan.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titan.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titanium-Scuffed_basecolor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titanium-Scuffed_basecolor.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titanium-Scuffed_metallic.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titanium-Scuffed_metallic.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titanium-Scuffed_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Titan/Titanium-Scuffed_normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/Floor.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/Floor.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-albedo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-albedo.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-ao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-ao.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-height.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-height.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-metallic.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-metallic.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-normal-ogl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/narrow-floorboards1-normal-ogl.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/sofa.physicMaterial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/sofa.physicMaterial.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/Materials/wornpaintedwoodsiding-albedo.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/Materials/wornpaintedwoodsiding-albedo.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/Walls.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/Walls.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-albedo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-albedo.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-ao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-ao.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-metalness.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-metalness.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-normal-unity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/wornpaintedwoodsiding-normal-unity.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Videos.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Videos/WinVideo.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Videos/WinVideo.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/ItIsneed.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/ItIsneed.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/Processor.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/Processor.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/SoBigBag.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/SoBigBag.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/SystemBlock.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/SystemBlock.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/WithoutPillow.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/VoicesRecord/WithoutPillow.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Puzzles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Puzzles.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Puzzles.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/OnPuzzle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Диаграмма Пазлов" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Диаграмма Пазлов.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/3d models/BoyBody/Head/Materials/model.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Memory/3d models/BoyBody/Head/Materials/model.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/Motivationmsuic.mp3.sfk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/Motivationmsuic.mp3.sfk.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/Motivationmsuic.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/Motivationmsuic.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/PhoneCall.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/PhoneCall.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/music.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Music/music.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Asphalt/Materials/Asphalt_Albedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Asphalt/Materials/Asphalt_Albedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Asphalt/Materials/Asphalt_Metallic.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Asphalt/Materials/Asphalt_Metallic.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Asphalt/Materials/Asphalt_Normal.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Asphalt/Materials/Asphalt_Normal.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Occlusion.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Brick Wall/BrickWall_Occlusion.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWallAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWallAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Occlusion.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cement Brick Wall/CementBrickWall_Occlusion.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Occlusion.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face Mossy/CliffFaceMossy_Occlusion.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Occlusion.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Cliff Face/CliffFace_Occlusion.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Concrete Wall.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Concrete Wall/ConcreteWall_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Concrete Wall/ConcreteWall_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Concrete Wall/ConcreteWall_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Concrete Wall/ConcreteWall_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Occlusion.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt Wall/DirtWall_Occlusion.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Oclussion.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Dirt/Dirt_Oclussion.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Occlusion.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Gravel/Gravel_Occlusion.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Height.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Height.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Metallic.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Metallic.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Sand/Sand_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/additions/General Textures/Materials/Tile Roof.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/additions/General Textures/Materials/Tile Roof.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/additions/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/additions/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,30 +42,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/DataHolder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/UpdatesData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/RtuLab/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/Restart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ResumeButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/OnPuzzle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/VolumeValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/AutoSave/Editor/AutoSaveExtension.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Game.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/StartScripts/SetBasicValues.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../AK-47-fires-to-the-sound-of-Morgenstern/Ak-47/Assets/Scripts/Melody.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Editor/ImageEffects/ColorCorrectionLookupEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/PressForStart.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -292,15 +95,19 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesGameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Puzzles.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/OnPuzzle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" />
+        <option value="$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" />
       </list>
     </option>
   </component>
@@ -378,7 +185,10 @@
       <workItem from="1586273017412" duration="4793000" />
       <workItem from="1586369783692" duration="5306000" />
       <workItem from="1586422340841" duration="1363000" />
-      <workItem from="1586426854367" duration="29993000" />
+      <workItem from="1586426854367" duration="30356000" />
+      <workItem from="1586525310820" duration="5232000" />
+      <workItem from="1586592576152" duration="7116000" />
+      <workItem from="1586629107511" duration="2103000" />
     </task>
     <servers />
   </component>

@@ -21,18 +21,20 @@ public class CheckIfHaveAllItem : MonoBehaviour
     {
         //
         //
-        if(!_AlredyPressE && Statics.HowManyItems==7 && Statics.level == 1)
-            _sub.text = sub;
-        if (!_AlredyPressE && Statics.HowManyItems < 7 && Statics.level == 1) 
+        if (!_AlredyPressE && Statics.HowManyItems >= 7 && Statics.level == 1)
         {
-            int buff = 8 - Statics.HowManyItems;
-            _sub.text = $"Не хватает {buff} предметов";
+            _sub.text = sub;
+        }  
+        if (!_AlredyPressE &&Statics.level==1&& Statics.HowManyItems < 7 )
+        {
+            int buff = 7 - Statics.HowManyItems;
+            _sub.text = $"Не хватает {buff} предметов для сбора компьютера";
         }
     }
     private void OnTriggerStay(Collider other)
     {
         
-        if ( Input.GetKeyDown( KeyCode.E ) && !_AlredyPressE && Statics.HowManyItems==7)
+        if ( Input.GetKeyDown( KeyCode.E ) && !_AlredyPressE && Statics.HowManyItems==7 && Statics.level==1)
         {
 
             _sub.text = "";
