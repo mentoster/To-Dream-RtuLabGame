@@ -29,10 +29,11 @@ public class StartMenuScript : MonoBehaviour
     public void startGame()
     {
         _buttonSound.Play();
-        startMenu.SetActive(false);
+        Destroy(startMenu);
+        Destroy(startCamera);
+        Destroy(startPlayer);
         player.SetActive(true);
-        startCamera.SetActive(false);
-        startPlayer.SetActive(false);
+      
     }
 
     public void callSettingMenu()

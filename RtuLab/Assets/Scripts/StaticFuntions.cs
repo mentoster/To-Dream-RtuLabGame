@@ -9,16 +9,7 @@ public static class Statics
     public static int AudioNowPlay { get; set; }
 
     //проверка на количество предметов
-    // детали компьютера которые необходимо найти - 
-    // монитор
-    // динамики * 2
-    // системный блок
-    // микросхемы
-    // провода
-    // стул
-    // подушка
-    // кулер 
-    //Функция равна не равная 0 означает, что можно активировать эти предметы
+
     public static int HowManyItems { get; set; }
     public static int level
     {

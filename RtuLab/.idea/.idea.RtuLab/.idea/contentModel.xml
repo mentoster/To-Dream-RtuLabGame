@@ -14,6 +14,16 @@
             </e>
             <e p="Readme.txt" t="Include" />
           </e>
+          <e p="Editor" t="Include">
+            <e p="Simplygon Bumped Specular.shader" t="Include" />
+            <e p="Simplygon Specular.shader" t="Include" />
+            <e p="Simplygon Transparent Bumped Diffuse.shader" t="Include" />
+            <e p="Simplygon Transparent Bumped Specular Detail.shader" t="Include" />
+            <e p="Simplygon Transparent Bumped Specular.shader" t="Include" />
+            <e p="Simplygon Transparent Diffuse.shader" t="Include" />
+            <e p="Simplygon Transparent Specular.shader" t="Include" />
+            <e p="SimplygonReadMe.txt" t="Include" />
+          </e>
           <e p="Invector-3rdPersonController_LITE" t="Include">
             <e p="3D Models" t="Include">
               <e p="Others" t="Include">

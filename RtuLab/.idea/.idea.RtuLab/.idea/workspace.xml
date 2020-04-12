@@ -2,22 +2,370 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ef2b9e0-2b02-4a15-99bf-24699fe54cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Cover_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Cover_20200412_152328/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Fountain_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/Fountain_20200412_152302/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/086f61a393aba33687bd672557789bbb8b0134815da6f7b82fc6391cce0ce70f.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/086f61a393aba33687bd672557789bbb8b0134815da6f7b82fc6391cce0ce70f/colcha_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/086f61a393aba33687bd672557789bbb8b0134815da6f7b82fc6391cce0ce70f/colcha_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/086f61a393aba33687bd672557789bbb8b0134815da6f7b82fc6391cce0ce70f/colcha_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/086f61a393aba33687bd672557789bbb8b0134815da6f7b82fc6391cce0ce70f/colcha_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/086f61a393aba33687bd672557789bbb8b0134815da6f7b82fc6391cce0ce70f/colcha_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/086f61a393aba33687bd672557789bbb8b0134815da6f7b82fc6391cce0ce70f/colcha_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/0f0651cbeb292fcd1c5ff0e29d143718d9286187dead3ef817ef610a59631eb6.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/0f0651cbeb292fcd1c5ff0e29d143718d9286187dead3ef817ef610a59631eb6/Object3398_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/0f0651cbeb292fcd1c5ff0e29d143718d9286187dead3ef817ef610a59631eb6/Object3398_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/0f0651cbeb292fcd1c5ff0e29d143718d9286187dead3ef817ef610a59631eb6/Object3398_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/0f0651cbeb292fcd1c5ff0e29d143718d9286187dead3ef817ef610a59631eb6/Object3398_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/0f0651cbeb292fcd1c5ff0e29d143718d9286187dead3ef817ef610a59631eb6/Object3398_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/0f0651cbeb292fcd1c5ff0e29d143718d9286187dead3ef817ef610a59631eb6/Object3398_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/110a69c90fc45438e8b8e2a8ed9dcaa773c91b0983aeea39e21e0b57b560c1b7.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/110a69c90fc45438e8b8e2a8ed9dcaa773c91b0983aeea39e21e0b57b560c1b7/Body_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/110a69c90fc45438e8b8e2a8ed9dcaa773c91b0983aeea39e21e0b57b560c1b7/Body_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/110a69c90fc45438e8b8e2a8ed9dcaa773c91b0983aeea39e21e0b57b560c1b7/Body_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/110a69c90fc45438e8b8e2a8ed9dcaa773c91b0983aeea39e21e0b57b560c1b7/Body_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/110a69c90fc45438e8b8e2a8ed9dcaa773c91b0983aeea39e21e0b57b560c1b7/Body_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/110a69c90fc45438e8b8e2a8ed9dcaa773c91b0983aeea39e21e0b57b560c1b7/Body_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b1c54a2c3a5e92b9474d6031a247a66e5fa634250e88740f39ace776c61e3d.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b1c54a2c3a5e92b9474d6031a247a66e5fa634250e88740f39ace776c61e3d/Bowl_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b1c54a2c3a5e92b9474d6031a247a66e5fa634250e88740f39ace776c61e3d/Bowl_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b1c54a2c3a5e92b9474d6031a247a66e5fa634250e88740f39ace776c61e3d/Bowl_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b1c54a2c3a5e92b9474d6031a247a66e5fa634250e88740f39ace776c61e3d/Bowl_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b1c54a2c3a5e92b9474d6031a247a66e5fa634250e88740f39ace776c61e3d/Bowl_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b1c54a2c3a5e92b9474d6031a247a66e5fa634250e88740f39ace776c61e3d/Bowl_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b8feb4c08d1e8add49df8884d040aa7ea5989736d71d79df86606f3af11e70.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b8feb4c08d1e8add49df8884d040aa7ea5989736d71d79df86606f3af11e70/guarda_fatos_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b8feb4c08d1e8add49df8884d040aa7ea5989736d71d79df86606f3af11e70/guarda_fatos_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b8feb4c08d1e8add49df8884d040aa7ea5989736d71d79df86606f3af11e70/guarda_fatos_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b8feb4c08d1e8add49df8884d040aa7ea5989736d71d79df86606f3af11e70/guarda_fatos_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b8feb4c08d1e8add49df8884d040aa7ea5989736d71d79df86606f3af11e70/guarda_fatos_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/21b8feb4c08d1e8add49df8884d040aa7ea5989736d71d79df86606f3af11e70/guarda_fatos_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/23b819b865efc7c4324d61eb8a3663a896468b4731a0ed4c9006962bf12bc1f6.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/23b819b865efc7c4324d61eb8a3663a896468b4731a0ed4c9006962bf12bc1f6/Box05_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/23b819b865efc7c4324d61eb8a3663a896468b4731a0ed4c9006962bf12bc1f6/Box05_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/23b819b865efc7c4324d61eb8a3663a896468b4731a0ed4c9006962bf12bc1f6/Box05_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/23b819b865efc7c4324d61eb8a3663a896468b4731a0ed4c9006962bf12bc1f6/Box05_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/23b819b865efc7c4324d61eb8a3663a896468b4731a0ed4c9006962bf12bc1f6/Box05_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/23b819b865efc7c4324d61eb8a3663a896468b4731a0ed4c9006962bf12bc1f6/Box05_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/253a8cb48b636760755b98b853da07baec11d0fefb299d4419703eb6d8de3b6a.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/253a8cb48b636760755b98b853da07baec11d0fefb299d4419703eb6d8de3b6a/Line5262_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/253a8cb48b636760755b98b853da07baec11d0fefb299d4419703eb6d8de3b6a/Line5262_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/253a8cb48b636760755b98b853da07baec11d0fefb299d4419703eb6d8de3b6a/Line5262_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/253a8cb48b636760755b98b853da07baec11d0fefb299d4419703eb6d8de3b6a/Line5262_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/253a8cb48b636760755b98b853da07baec11d0fefb299d4419703eb6d8de3b6a/Line5262_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/253a8cb48b636760755b98b853da07baec11d0fefb299d4419703eb6d8de3b6a/Line5262_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/268a186a8b47ccd620907cc73a7b18ca1cb58fc1bdcc921a5479b2acc8aaa8a5.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/268a186a8b47ccd620907cc73a7b18ca1cb58fc1bdcc921a5479b2acc8aaa8a5/Line5111_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/268a186a8b47ccd620907cc73a7b18ca1cb58fc1bdcc921a5479b2acc8aaa8a5/Line5111_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/268a186a8b47ccd620907cc73a7b18ca1cb58fc1bdcc921a5479b2acc8aaa8a5/Line5111_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/268a186a8b47ccd620907cc73a7b18ca1cb58fc1bdcc921a5479b2acc8aaa8a5/Line5111_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/268a186a8b47ccd620907cc73a7b18ca1cb58fc1bdcc921a5479b2acc8aaa8a5/Line5111_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/268a186a8b47ccd620907cc73a7b18ca1cb58fc1bdcc921a5479b2acc8aaa8a5/Line5111_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/273dd5a5e97a6c973c9dd56aecfe42c58aafed7d92ccebf8ee73195eb5be3d49.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/273dd5a5e97a6c973c9dd56aecfe42c58aafed7d92ccebf8ee73195eb5be3d49/Plane_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/273dd5a5e97a6c973c9dd56aecfe42c58aafed7d92ccebf8ee73195eb5be3d49/Plane_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/2d5aa69409acbf505da4b25e6265edcecc54a0be435eb55f1412feab083c985b.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/2d5aa69409acbf505da4b25e6265edcecc54a0be435eb55f1412feab083c985b/Cover_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/2d5aa69409acbf505da4b25e6265edcecc54a0be435eb55f1412feab083c985b/Cover_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/2d5aa69409acbf505da4b25e6265edcecc54a0be435eb55f1412feab083c985b/Cover_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/2d5aa69409acbf505da4b25e6265edcecc54a0be435eb55f1412feab083c985b/Cover_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/2d5aa69409acbf505da4b25e6265edcecc54a0be435eb55f1412feab083c985b/Cover_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/2d5aa69409acbf505da4b25e6265edcecc54a0be435eb55f1412feab083c985b/Cover_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/5a79b1edd186b48f395b598e11bff7cb739aef64eddf553e23d26ea44a503860.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/5a79b1edd186b48f395b598e11bff7cb739aef64eddf553e23d26ea44a503860/mesinha.001_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/5a79b1edd186b48f395b598e11bff7cb739aef64eddf553e23d26ea44a503860/mesinha.001_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6d67caa05d108f6f8b88ad394bdae8fb525a416ee4b534c9a0fbe65bbd507c12.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6d67caa05d108f6f8b88ad394bdae8fb525a416ee4b534c9a0fbe65bbd507c12/Bowl holder_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6d67caa05d108f6f8b88ad394bdae8fb525a416ee4b534c9a0fbe65bbd507c12/Bowl holder_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6d67caa05d108f6f8b88ad394bdae8fb525a416ee4b534c9a0fbe65bbd507c12/Bowl holder_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6d67caa05d108f6f8b88ad394bdae8fb525a416ee4b534c9a0fbe65bbd507c12/Bowl holder_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6d67caa05d108f6f8b88ad394bdae8fb525a416ee4b534c9a0fbe65bbd507c12/Bowl holder_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6d67caa05d108f6f8b88ad394bdae8fb525a416ee4b534c9a0fbe65bbd507c12/Bowl holder_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6db3b600e6b07323a23dd467b3f534d2c81238a0eadf9749b20fc3a3b1d354f9.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6db3b600e6b07323a23dd467b3f534d2c81238a0eadf9749b20fc3a3b1d354f9/cortina_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6db3b600e6b07323a23dd467b3f534d2c81238a0eadf9749b20fc3a3b1d354f9/cortina_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6db3b600e6b07323a23dd467b3f534d2c81238a0eadf9749b20fc3a3b1d354f9/cortina_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6db3b600e6b07323a23dd467b3f534d2c81238a0eadf9749b20fc3a3b1d354f9/cortina_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6db3b600e6b07323a23dd467b3f534d2c81238a0eadf9749b20fc3a3b1d354f9/cortina_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/6db3b600e6b07323a23dd467b3f534d2c81238a0eadf9749b20fc3a3b1d354f9/cortina_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/741c213db7cd204d2ef1c32c787b66b0b9eb451c7703d33c60e2cb928812257d.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/741c213db7cd204d2ef1c32c787b66b0b9eb451c7703d33c60e2cb928812257d/Line5107_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/741c213db7cd204d2ef1c32c787b66b0b9eb451c7703d33c60e2cb928812257d/Line5107_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/741c213db7cd204d2ef1c32c787b66b0b9eb451c7703d33c60e2cb928812257d/Line5107_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/741c213db7cd204d2ef1c32c787b66b0b9eb451c7703d33c60e2cb928812257d/Line5107_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/741c213db7cd204d2ef1c32c787b66b0b9eb451c7703d33c60e2cb928812257d/Line5107_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/741c213db7cd204d2ef1c32c787b66b0b9eb451c7703d33c60e2cb928812257d/Line5107_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8056788f39942c669d779441121fad030613a6bd18d818f343c639111092223d.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8056788f39942c669d779441121fad030613a6bd18d818f343c639111092223d/Object023_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8056788f39942c669d779441121fad030613a6bd18d818f343c639111092223d/Object023_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8056788f39942c669d779441121fad030613a6bd18d818f343c639111092223d/Object023_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8056788f39942c669d779441121fad030613a6bd18d818f343c639111092223d/Object023_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8056788f39942c669d779441121fad030613a6bd18d818f343c639111092223d/Object023_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8056788f39942c669d779441121fad030613a6bd18d818f343c639111092223d/Object023_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/82e6157a942faee59c0ae601ff8601d5315a51b678cc4818a617fbf3f4068170.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/82e6157a942faee59c0ae601ff8601d5315a51b678cc4818a617fbf3f4068170/cgaxis_models_07_12__LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/82e6157a942faee59c0ae601ff8601d5315a51b678cc4818a617fbf3f4068170/cgaxis_models_07_12__LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/82e6157a942faee59c0ae601ff8601d5315a51b678cc4818a617fbf3f4068170/cgaxis_models_07_12__LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/82e6157a942faee59c0ae601ff8601d5315a51b678cc4818a617fbf3f4068170/cgaxis_models_07_12__LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/82e6157a942faee59c0ae601ff8601d5315a51b678cc4818a617fbf3f4068170/cgaxis_models_07_12__LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/82e6157a942faee59c0ae601ff8601d5315a51b678cc4818a617fbf3f4068170/cgaxis_models_07_12__LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/88f099263468002b797650961283ba781c76d7740d4760faa2003ea1f9173108.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/88f099263468002b797650961283ba781c76d7740d4760faa2003ea1f9173108/cama_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/88f099263468002b797650961283ba781c76d7740d4760faa2003ea1f9173108/cama_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/88f099263468002b797650961283ba781c76d7740d4760faa2003ea1f9173108/cama_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/88f099263468002b797650961283ba781c76d7740d4760faa2003ea1f9173108/cama_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/88f099263468002b797650961283ba781c76d7740d4760faa2003ea1f9173108/cama_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/88f099263468002b797650961283ba781c76d7740d4760faa2003ea1f9173108/cama_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8db81661871cd7359767cd6fee0947e715ea19ab399d475da71f527e448502e7.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8db81661871cd7359767cd6fee0947e715ea19ab399d475da71f527e448502e7/varao_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/8db81661871cd7359767cd6fee0947e715ea19ab399d475da71f527e448502e7/varao_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/9397d91085a157715ae0bef77427e396a5f5025b40e6072fc64bd48b439f5683.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/9397d91085a157715ae0bef77427e396a5f5025b40e6072fc64bd48b439f5683/Fountain_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/9397d91085a157715ae0bef77427e396a5f5025b40e6072fc64bd48b439f5683/Fountain_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/9397d91085a157715ae0bef77427e396a5f5025b40e6072fc64bd48b439f5683/Fountain_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/9397d91085a157715ae0bef77427e396a5f5025b40e6072fc64bd48b439f5683/Fountain_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/9397d91085a157715ae0bef77427e396a5f5025b40e6072fc64bd48b439f5683/Fountain_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/9397d91085a157715ae0bef77427e396a5f5025b40e6072fc64bd48b439f5683/Fountain_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a1b3b4725369219e9a187f768b8785ca844d6d1b35d7c3556c18a56ffcc24579.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a1b3b4725369219e9a187f768b8785ca844d6d1b35d7c3556c18a56ffcc24579/janela_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a1b3b4725369219e9a187f768b8785ca844d6d1b35d7c3556c18a56ffcc24579/janela_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a1b3b4725369219e9a187f768b8785ca844d6d1b35d7c3556c18a56ffcc24579/janela_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a1b3b4725369219e9a187f768b8785ca844d6d1b35d7c3556c18a56ffcc24579/janela_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a1b3b4725369219e9a187f768b8785ca844d6d1b35d7c3556c18a56ffcc24579/janela_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a1b3b4725369219e9a187f768b8785ca844d6d1b35d7c3556c18a56ffcc24579/janela_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a264e8a79a53774085666d111715cd349a67eb0be4169ef1903cac16d971fb33.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a264e8a79a53774085666d111715cd349a67eb0be4169ef1903cac16d971fb33/Line021_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a264e8a79a53774085666d111715cd349a67eb0be4169ef1903cac16d971fb33/Line021_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a264e8a79a53774085666d111715cd349a67eb0be4169ef1903cac16d971fb33/Line021_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a264e8a79a53774085666d111715cd349a67eb0be4169ef1903cac16d971fb33/Line021_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a264e8a79a53774085666d111715cd349a67eb0be4169ef1903cac16d971fb33/Line021_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/a264e8a79a53774085666d111715cd349a67eb0be4169ef1903cac16d971fb33/Line021_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/b9db0ead8d06551671818adacc3360257e87a727a3d3a49c9653a95fc8499ec9.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/b9db0ead8d06551671818adacc3360257e87a727a3d3a49c9653a95fc8499ec9/0-doska002_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/b9db0ead8d06551671818adacc3360257e87a727a3d3a49c9653a95fc8499ec9/0-doska002_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/b9db0ead8d06551671818adacc3360257e87a727a3d3a49c9653a95fc8499ec9/0-doska002_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/b9db0ead8d06551671818adacc3360257e87a727a3d3a49c9653a95fc8499ec9/0-doska002_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/b9db0ead8d06551671818adacc3360257e87a727a3d3a49c9653a95fc8499ec9/0-doska002_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/b9db0ead8d06551671818adacc3360257e87a727a3d3a49c9653a95fc8499ec9/0-doska002_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c21a2ebbe8ae29da5a9f95f80de27d6582e7c9a2114ac30985f4641b67b73858.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c21a2ebbe8ae29da5a9f95f80de27d6582e7c9a2114ac30985f4641b67b73858/comoda_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c21a2ebbe8ae29da5a9f95f80de27d6582e7c9a2114ac30985f4641b67b73858/comoda_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c21a2ebbe8ae29da5a9f95f80de27d6582e7c9a2114ac30985f4641b67b73858/comoda_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c21a2ebbe8ae29da5a9f95f80de27d6582e7c9a2114ac30985f4641b67b73858/comoda_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c21a2ebbe8ae29da5a9f95f80de27d6582e7c9a2114ac30985f4641b67b73858/comoda_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c21a2ebbe8ae29da5a9f95f80de27d6582e7c9a2114ac30985f4641b67b73858/comoda_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c6718c586f29f17347bdd3a429fb68c8fbb844ea8d5936fac51f6f52052eb963.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c6718c586f29f17347bdd3a429fb68c8fbb844ea8d5936fac51f6f52052eb963/Box06_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c6718c586f29f17347bdd3a429fb68c8fbb844ea8d5936fac51f6f52052eb963/Box06_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c6718c586f29f17347bdd3a429fb68c8fbb844ea8d5936fac51f6f52052eb963/Box06_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c6718c586f29f17347bdd3a429fb68c8fbb844ea8d5936fac51f6f52052eb963/Box06_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c6718c586f29f17347bdd3a429fb68c8fbb844ea8d5936fac51f6f52052eb963/Box06_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/c6718c586f29f17347bdd3a429fb68c8fbb844ea8d5936fac51f6f52052eb963/Box06_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e170cf5f86157728a1e468fd77999c01736a049c3f26970f27640e380bde56f1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e170cf5f86157728a1e468fd77999c01736a049c3f26970f27640e380bde56f1/Line5126_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e170cf5f86157728a1e468fd77999c01736a049c3f26970f27640e380bde56f1/Line5126_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e170cf5f86157728a1e468fd77999c01736a049c3f26970f27640e380bde56f1/Line5126_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e170cf5f86157728a1e468fd77999c01736a049c3f26970f27640e380bde56f1/Line5126_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e170cf5f86157728a1e468fd77999c01736a049c3f26970f27640e380bde56f1/Line5126_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e170cf5f86157728a1e468fd77999c01736a049c3f26970f27640e380bde56f1/Line5126_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e57c9882535679cfc488fd7e4d97c0c7ae4144ff70f91339c143faf72ea72512.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e57c9882535679cfc488fd7e4d97c0c7ae4144ff70f91339c143faf72ea72512/Object3429_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e57c9882535679cfc488fd7e4d97c0c7ae4144ff70f91339c143faf72ea72512/Object3429_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e57c9882535679cfc488fd7e4d97c0c7ae4144ff70f91339c143faf72ea72512/Object3429_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e57c9882535679cfc488fd7e4d97c0c7ae4144ff70f91339c143faf72ea72512/Object3429_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e57c9882535679cfc488fd7e4d97c0c7ae4144ff70f91339c143faf72ea72512/Object3429_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e57c9882535679cfc488fd7e4d97c0c7ae4144ff70f91339c143faf72ea72512/Object3429_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e6a5368212114c30c49e7b64675ebe10f0c1c6dd5c1d6e2937c8a11002eafbce.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e6a5368212114c30c49e7b64675ebe10f0c1c6dd5c1d6e2937c8a11002eafbce/Plane.001_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e6a5368212114c30c49e7b64675ebe10f0c1c6dd5c1d6e2937c8a11002eafbce/Plane.001_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e6a5368212114c30c49e7b64675ebe10f0c1c6dd5c1d6e2937c8a11002eafbce/Plane.001_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e6a5368212114c30c49e7b64675ebe10f0c1c6dd5c1d6e2937c8a11002eafbce/Plane.001_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e6a5368212114c30c49e7b64675ebe10f0c1c6dd5c1d6e2937c8a11002eafbce/Plane.001_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/e6a5368212114c30c49e7b64675ebe10f0c1c6dd5c1d6e2937c8a11002eafbce/Plane.001_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/efd4b7ca5d549da9ab398382cede1390f8b52c5f44db2142e169b765c31050fe.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/efd4b7ca5d549da9ab398382cede1390f8b52c5f44db2142e169b765c31050fe/Line5122_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/efd4b7ca5d549da9ab398382cede1390f8b52c5f44db2142e169b765c31050fe/Line5122_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/efd4b7ca5d549da9ab398382cede1390f8b52c5f44db2142e169b765c31050fe/Line5122_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/efd4b7ca5d549da9ab398382cede1390f8b52c5f44db2142e169b765c31050fe/Line5122_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/efd4b7ca5d549da9ab398382cede1390f8b52c5f44db2142e169b765c31050fe/Line5122_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/PendingLODs/efd4b7ca5d549da9ab398382cede1390f8b52c5f44db2142e169b765c31050fe/Line5122_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/Plane_20200412_152221.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/Plane_20200412_152221/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/Plane_20200412_152221/Plane_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/Plane_20200412_152221/Plane_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/Plane_20200412_152221/Plane_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/Plane_20200412_152221/Plane_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/comoda_20200412_152135/comoda_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/cortina_20200412_152204/cortina_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/guarda_fatos_20200412_152201/guarda_fatos_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/janela_20200412_152227/janela_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/varao_20200412_152246.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/varao_20200412_152246/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/varao_20200412_152246/varao_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/varao_20200412_152246/varao_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/varao_20200412_152246/varao_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/bedroom/varao_20200412_152246/varao_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Line021_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line021_20200412_151954/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Line5107_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5107_20200412_151855/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Line5122_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5122_20200412_150830/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Line5126_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5126_20200412_150825/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Line5262_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Line5262_20200412_152103/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object023_20200412_152053/Object023_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3398_20200412_152021/Object3398_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LOD1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LOD1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LOD2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LOD2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LOD3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LOD3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LODGroup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LODsRoom/kichen/Object3429_20200412_152042/Object3429_LODGroup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Bumped Specular.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Bumped Specular.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Specular.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Specular.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Bumped Diffuse.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Bumped Diffuse.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Bumped Specular Detail.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Bumped Specular Detail.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Bumped Specular.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Bumped Specular.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Diffuse.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Diffuse.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Specular.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon Transparent Specular.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/Simplygon.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/SimplygonReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/additions/Editor/SimplygonReadMe.txt.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Tile Roof/Roof.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Tile Roof/Roof.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +393,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/DataHolder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" root0="FORCE_HIGHLIGHTING" />
@@ -95,7 +444,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesGameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Puzzles.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/OnPuzzle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
@@ -104,10 +452,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" />
         <option value="$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" />
       </list>
     </option>
   </component>
@@ -189,6 +538,7 @@
       <workItem from="1586525310820" duration="5232000" />
       <workItem from="1586592576152" duration="7116000" />
       <workItem from="1586629107511" duration="2103000" />
+      <workItem from="1586675087687" duration="3356000" />
     </task>
     <servers />
   </component>
