@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
+using UnityStandardAssets.ImageEffects;
 
 public class SettingMenu : MonoBehaviour
 {
@@ -16,6 +17,8 @@ public class SettingMenu : MonoBehaviour
     
     private  Animator m_Animator;
     private Animator s_Animator;//settingfone animator
+
+    public Camera camera;
     void Start()
     {
         _buttonSound = GetComponent<AudioSource>();
@@ -77,5 +80,12 @@ public class SettingMenu : MonoBehaviour
         Application.Quit();
         Debug.Log("Exit pressed ");
         Time.timeScale = 1f;
+    }
+
+    public void ToggleChanger(bool Effects)
+    {
+        camera.GetComponent<BloomOptimized>().enabled = Effects;
+        camera.GetComponent<SunShafts>().enabled = Effects;
+        camera.GetComponent<VignetteAndChromaticAberration>().enabled = Effects;
     }
 }

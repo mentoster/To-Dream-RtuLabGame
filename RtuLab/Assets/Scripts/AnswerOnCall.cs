@@ -24,6 +24,7 @@ public class AnswerOnCall : MonoBehaviour
     public GameObject Frolic;
     private SetMusicOrSound _setMusic;
     private bool _alredyPressE=false;
+    public GameObject party;
     void Start()
     { 
         _mMyAudioSource = GetComponent<AudioSource>(); 
@@ -46,6 +47,7 @@ public class AnswerOnCall : MonoBehaviour
 
         if ( Input.GetKeyDown( KeyCode.E ) && !_alredyPressE )
         {
+            party.SetActive(false);
             _offSource.enabled = false;
             _mMyAudioSource.Play();
             //прекращаем показывать игроку принять вызов

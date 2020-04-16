@@ -17,6 +17,7 @@ public static class Statics
         set => PlayerPrefs.SetInt("level", value);
     }
 
+
 }
 
 
