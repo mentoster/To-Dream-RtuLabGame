@@ -14669,6 +14669,7 @@ GameObject:
   - component: {fileID: 997251670}
   - component: {fileID: 997251669}
   - component: {fileID: 997251672}
+  - component: {fileID: 997251673}
   m_Layer: 0
   m_Name: Fountain_LOD1(Clone)
   m_TagString: Untagged
@@ -14846,6 +14847,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &997251673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 997251667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffac75c558d54444d8adccb585815064, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ItIsMusic: 1
+  coefficient: 0.18
 --- !u!1 &997887577
 GameObject:
   m_ObjectHideFlags: 0
