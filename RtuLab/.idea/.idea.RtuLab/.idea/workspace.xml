@@ -20,89 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ef2b9e0-2b02-4a15-99bf-24699fe54cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/windows.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/windows.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/tv.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/tv.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Main Camera.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Main Camera.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/OffPauseMenuHome.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/OffPauseMenuHome.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Readme.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ExitButton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ExitButton.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/Restart.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/Restart.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ResumeButton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ResumeButton.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/SetMusicOrSound.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/SetMusicOrSound.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/VolumeValue.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/VolumeValue.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Settings 1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Settings 1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Sprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Sprites/menuFromMyAnotherGame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Sprites/menuFromMyAnotherGame.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthManager.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/02e02e7904d21d68631f11fe8bc8a02e7.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/02e02e7904d21d68631f11fe8bc8a02e7.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Main Camera.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Main Camera.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/OffPauseMenuHome.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/OffPauseMenuHome.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/Restart.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/Restart.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ResumeButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ResumeButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/VolumeValue.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/VolumeValue.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Settings 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Settings 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Sprites/menuFromMyAnotherGame.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Sprites/menuFromMyAnotherGame.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Puzzles.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Puzzles.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DanceOnStart.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DanceOnStart.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Диаграмма Пазлов" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Диаграмма Пазлов.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthUp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthUp.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/Spawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/StartGame.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/StartGame.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Singleton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Game.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Game/OcclusionCullingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Game/OcclusionCullingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +219,7 @@
       <workItem from="1587138610759" duration="2295000" />
       <workItem from="1587156512116" duration="664000" />
       <workItem from="1587158738857" duration="4187000" />
-      <workItem from="1587206589410" duration="3652000" />
+      <workItem from="1587206589410" duration="4978000" />
     </task>
     <servers />
   </component>
