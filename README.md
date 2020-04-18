@@ -28,8 +28,8 @@
 2. Editor
   * Simplygon. Если кратко - упращает вершины моделей для создания LODов 
 3. Собственный аватар (голова+тело)
-  * Голова сделана с помощью сайта:  [AvararSDK]:https://avatarsdk.com/
-  * Тело взято от сюда : [mixamo]:https://www.mixamo.com/
+  * Голова сделана с помощью сайта:  [AvararSDK](https://avatarsdk.com/)
+  * Тело взято от сюда : [mixamo](https://www.mixamo.com/)
   * модели скреплены собственными руками в blender.
 4. General Textures
  * Текстуры
