@@ -2,7 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//этот  код отвечает за то, чтобы менять цвет диско в финале игры
+// метод invoke не очень оптимизированный, и я это знаю, да и код можно было сократить до цикла
+// но зачем?))))) нарушится понимание
+// Для справки, для лучшей оптимизации переписать код чере Coroutines instead. Читать об этом в документации
 public class LightColorChanger : MonoBehaviour
 {
   private Light disco;

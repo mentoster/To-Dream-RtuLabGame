@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//код отвечает за то, чтобы задать начальные параметры, такие как сохранение ,звук
+//с помощью кода можно менять текущий уровень
+//для этого нужно выбрать уровень и отметить галочку изменить уровень
 public class StartParametrs : MonoBehaviour
 {
     public bool deleteSave;

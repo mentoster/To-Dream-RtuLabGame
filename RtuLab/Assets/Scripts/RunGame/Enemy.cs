@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//код вешается на "врага"
 public class Enemy : MonoBehaviour
 {
    public float damage;

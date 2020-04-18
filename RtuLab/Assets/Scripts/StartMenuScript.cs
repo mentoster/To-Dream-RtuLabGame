@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-
+    //код отвечает за начальное меню, отображаемое при первом входе
 public class StartMenuScript : MonoBehaviour
 {
     public GameObject startCamera;

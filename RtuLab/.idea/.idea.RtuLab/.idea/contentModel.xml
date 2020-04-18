@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Dimam\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Dimam\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_RtuLab.-1145124919.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Dimam\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dimam\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_RtuLab.-1145124919.00" t="ExcludeRecursive" />
     <e p="D:\Users\Dimam\Documents\GitHub\To-Dream-RtuLabGame\RtuLab" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -324,8 +324,9 @@
           </e>
         </e>
         <e p="Prefabs" t="Include">
-          <e p="MySetting" t="Include">
+          <e p="SettinsPrefab" t="Include">
             <e p="OffPauseMenuHome.cs" t="Include" />
+            <e p="Readme.txt" t="Include" />
             <e p="Scripts" t="Include">
               <e p="ExitButton.cs" t="Include" />
               <e p="Restart.cs" t="Include" />
@@ -339,10 +340,8 @@
           <e p="Readme.txt" t="Include" />
         </e>
         <e p="Scripts" t="Include">
-          <e p="AfterCallCollectDetails.cs" t="Include" />
           <e p="AnswerOnCall.cs" t="Include" />
           <e p="CheckIfHaveAllItem.cs" t="Include" />
-          <e p="DanceOnStart.cs" t="Include" />
           <e p="DeleteSub.cs" t="Include" />
           <e p="ItemsScritpt.cs" t="Include" />
           <e p="LightColorChanger.cs" t="Include" />
@@ -353,13 +352,11 @@
           </e>
           <e p="RunGame" t="Include">
             <e p="Enemy.cs" t="Include" />
-            <e p="HealthUp.cs" t="Include" />
+            <e p="HealthManager.cs" t="Include" />
             <e p="Spawner.cs" t="Include" />
-            <e p="StartGame.cs" t="Include" />
             <e p="UnityPlayerController.cs" t="Include" />
           </e>
           <e p="SettingMenu.cs" t="Include" />
-          <e p="Singleton.cs" t="Include" />
           <e p="StartMenuScript.cs" t="Include" />
           <e p="StartParametrs.cs" t="Include" />
           <e p="StaticFuntions.cs" t="Include" />

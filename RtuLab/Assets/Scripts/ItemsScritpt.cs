@@ -1,6 +1,6 @@
 ﻿using TMPro;
 using UnityEngine;
-
+    //этот скрипт вешается на предметы, которые нобходимо собрать
 public class ItemsScritpt : MonoBehaviour
 {
     //Переменные неоходимые для субтитров
@@ -13,10 +13,10 @@ public class ItemsScritpt : MonoBehaviour
     private bool _alredyPressE=false;
     
     //звук взятия предмета
- public AudioSource takeSound;
-  public AudioSource whenTakeVoice;
-    public string whoSay = "Дмитрий";
-    public bool useAudoSource=true;
+   public AudioSource takeSound;
+   public AudioSource whenTakeVoice;
+   public string whoSay = "Дмитрий";
+   public bool useAudoSource=true;
 
     private GameObject _gameManager;
     void Start()
@@ -28,7 +28,7 @@ public class ItemsScritpt : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-
+        //чекаем уровень 
         if (!_alredyPressE && Statics.level == 1 )
         {
             _sub.text = sub[0];
@@ -36,7 +36,7 @@ public class ItemsScritpt : MonoBehaviour
     }
     private void OnTriggerStay(Collider other)
     {
-     
+     //позваоляем взять игроку
         if ( Input.GetKeyDown( KeyCode.E ) && !_alredyPressE && Statics.level==1)
         {
             if (useAudoSource)
@@ -47,6 +47,7 @@ public class ItemsScritpt : MonoBehaviour
             }
             takeSound.Play();
             _alredyPressE = true;
+            //повышаем количество вещей в инвертаре
             Statics.HowManyItems++;
             Debug.Log($"Взят предмет! теперь их {Statics.HowManyItems}");
             Invoke(nameof(DeleteSub),subtime);

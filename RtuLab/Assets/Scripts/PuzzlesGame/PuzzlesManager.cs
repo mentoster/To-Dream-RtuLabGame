@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
-
+//этот код - менеджр пазла
 namespace PuzzlesGame
 {
     public class PuzzlesManager : MonoBehaviour
@@ -29,6 +29,8 @@ namespace PuzzlesGame
             GeneratePuzzle();
         }
 
+        #region puzzleFucntions
+// перемещает пазл
         private void FixedUpdate()
         {
             if (_goRightNow)
@@ -106,6 +108,7 @@ namespace PuzzlesGame
                 }
             }
         }
+        //перемещает пазл в другую клетку матрицы
         private void TransromPuzzle(int x, int y,int ID)
         {
             //передаем id  в update
@@ -119,6 +122,7 @@ namespace PuzzlesGame
             //проверяем, решили ли мы правильно 
             CheckPuzzle();
         }
+        //проверяет ВЕСЬ ПАЗЛ на правильную комбинацию
         private void CheckPuzzle()
         {
             int buff = 0, x = 0, y = 0;
@@ -146,17 +150,8 @@ namespace PuzzlesGame
             }
         }
 
-        private void LoadGameScene()
-        {
-            
-            Statics.level=2;
-            Debug.Log("Победа, загрузка сцены Game...");
-            Debug.Log("Уровень сейчас "+ Statics.level);
-            
-            SceneManager.LoadScene("Game");
-        }
  
-    
+    //генерирует случайный пазл
         private void GeneratePuzzle()
         {
             //правильная комбинация для выйграша
@@ -195,7 +190,8 @@ namespace PuzzlesGame
             }
         
         }
-        //переводит из id местоположение в игровое
+     
+        //переводит из id местоположение в игровое 
         private float RealPosition(int x)
         {
             switch (x)
@@ -210,7 +206,16 @@ namespace PuzzlesGame
                     return  0;
             }
         }
-  
+        #endregion   
+        //функция при победе
+        private void LoadGameScene()
+        {
+                                       
+            Statics.level=2;
+            Debug.Log("Победа, загрузка сцены Game...");
+            Debug.Log("Уровень сейчас "+ Statics.level);
+            SceneManager.LoadScene("Game");
+        }
         //http://www.dotnetperls.com/fisher-yates-shuffle
         // перемешка  массива
         private void Shuffle<T>(T[] array)

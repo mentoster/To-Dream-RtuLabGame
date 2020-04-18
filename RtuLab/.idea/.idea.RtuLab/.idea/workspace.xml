@@ -1,66 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ef2b9e0-2b02-4a15-99bf-24699fe54cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/3d models/House/house.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/3d models/House/house.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/Mettal.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/Mettal.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_albedo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_albedo.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_ao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_ao.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_height.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_height.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_metallic.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_metallic.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_normal-ogl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Metal/pitted-metal_normal-ogl.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/anotherwhite.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/anotherwhite.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/boorlap.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/boorlap.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-Height.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-Height.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-Metallic.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-Metallic.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-Normal-ogl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-Normal-ogl.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-albedo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-albedo.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-ao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/boorlap/burlap-stained1-ao.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/02e02e7904d21d68631f11fe8bc8a02e7.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/02e02e7904d21d68631f11fe8bc8a02e7.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/WaterInfountain.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/WaterInfountain.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-albedo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-albedo.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-ao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-ao.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-metalness.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-metalness.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/corkboard3b-normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/wood.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wood/wood.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/windows.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/windows.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/tv.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/tv.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Main Camera.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Main Camera.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/OffPauseMenuHome.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/OffPauseMenuHome.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ExitButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ExitButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/Restart.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/Restart.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ResumeButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/ResumeButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/SetMusicOrSound.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/SetMusicOrSound.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/VolumeValue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Scripts/VolumeValue.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Settings 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Settings 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Sprites/menuFromMyAnotherGame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SettinsPrefab/Sprites/menuFromMyAnotherGame.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RtuLab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Red.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/Red.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/floor/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/Walls.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/wall/Walls.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/ф.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/ф/02e02e7904d21d68631f11fe8bc8a02e7.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/ф/02e02e7904d21d68631f11fe8bc8a02e7.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/ф/WaterInfountain.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/ф/WaterInfountain.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Light.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Light.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/02e02e7904d21d68631f11fe8bc8a02e7.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Memory/Textures/Materials/other/02e02e7904d21d68631f11fe8bc8a02e7.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Main Camera.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Main Camera.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/OffPauseMenuHome.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/OffPauseMenuHome.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/Restart.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/Restart.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ResumeButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ResumeButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/VolumeValue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/VolumeValue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Settings 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Settings 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Sprites/menuFromMyAnotherGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MySetting/Sprites/menuFromMyAnotherGame.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TerrainData_f9f2177c-98e7-4b41-b82e-1022daae2a3a.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TerrainData_f9f2177c-98e7-4b41-b82e-1022daae2a3a.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Puzzles.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Puzzles.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DanceOnStart.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DanceOnStart.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Диаграмма Пазлов" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Диаграмма Пазлов.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthUp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthUp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/Spawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/StartGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/StartGame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Singleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,46 +127,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/DataHolder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/UpdatesData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/RtuLab/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/Restart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ResumeButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/VolumeValue.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DanceOnStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunGame/HealthUp.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/AutoSave/Editor/AutoSaveExtension.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Game.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunGame/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Temp/Compiled-Standard.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/StartScripts/SetBasicValues.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../AK-47-fires-to-the-sound-of-Morgenstern/Ak-47/Assets/Scripts/Melody.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Editor/ImageEffects/ColorCorrectionLookupEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Temp/ParsedCombinations-Standard.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/PressForStart.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/AutoSave/Editor/AutoSaveExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/DataHolder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/StartScripts/SetBasicValues.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Game.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/OnPuzzle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../catapylta/Assets/Scripts/HomeScripts/UpdatesData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/RtuLab/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunGame/HealthManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../AK-47-fires-to-the-sound-of-Morgenstern/Ak-47/Assets/Scripts/Melody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/additions/NatureStarterKit2/Editor/ImageEffects/ColorCorrectionLookupEditor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,32 +178,33 @@
         <option value="$PROJECT_DIR$/Assets/Game/Scripts/AnswerOnCall.cs" />
         <option value="$PROJECT_DIR$/Assets/Game/Scripts/PlayVoice.cs" />
         <option value="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/SetMusicOrSound.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/item scripts/CheckIfHaveAllItem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/item scripts/ItemsScritpt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesGameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/Puzzles.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/OnPuzzle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" />
         <option value="$PROJECT_DIR$/Assets/additions/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Prefabs/MySetting/Scripts/ExitButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/Spawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DanceOnStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnswerOnCall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AfterCallCollectDetails.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeleteSub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVoice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartMenuScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StaticFuntions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsScritpt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CheckIfHaveAllItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SettingMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StartParametrs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PuzzlesGame/PuzzlesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/HealthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunGame/UnityPlayerController.cs" />
       </list>
     </option>
   </component>
@@ -179,7 +214,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -259,11 +293,15 @@
       <workItem from="1587057316964" duration="1236000" />
       <workItem from="1587060657900" duration="633000" />
       <workItem from="1587071977549" duration="1530000" />
+      <workItem from="1587138610759" duration="2295000" />
+      <workItem from="1587156512116" duration="664000" />
+      <workItem from="1587158738857" duration="4187000" />
+      <workItem from="1587206589410" duration="3652000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
@@ -272,18 +310,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="216" y="136" key="#Inspection_severity" timestamp="1587208310359">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="216" y="136" key="#Inspection_severity/0.0.1280.984@0.0.1280.984" timestamp="1587208310359" />
+    <state x="320" y="227" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587157850433">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="320" y="227" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.984@0.0.1280.984" timestamp="1587157850433" />
     <state x="371" y="215" key="RiderGenerateDialog" timestamp="1586784677279">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

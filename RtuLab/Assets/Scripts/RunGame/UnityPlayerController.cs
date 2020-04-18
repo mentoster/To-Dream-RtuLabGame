@@ -3,7 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-
+//код вешается на "героя" - unity 
+// отвечает за прыжок по мышке
+//урон тоже тут получается.
 public class UnityPlayerController : MonoBehaviour
 {
    Rigidbody2D m_Rigidbody;
@@ -35,7 +37,7 @@ public class UnityPlayerController : MonoBehaviour
    public void  ApplyDamage(float damage)
    {
       //вычитаем единицу, так как при срабатыванни функции upHealth прибавляется единица
-      healthUp.GetComponent<HealthUp>().health-=damage;
-      healthUp.GetComponent<HealthUp>().upHealthText();
+      healthUp.GetComponent<HealthManager>().health-=damage;
+      healthUp.GetComponent<HealthManager>().upHealthText();
    }
 }

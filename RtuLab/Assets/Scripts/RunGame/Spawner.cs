@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
-
+// код отвечает за спавн  предметов
 public class Spawner : MonoBehaviour
 {
   

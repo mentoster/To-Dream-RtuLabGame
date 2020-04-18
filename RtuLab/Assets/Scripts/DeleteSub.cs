@@ -1,7 +1,7 @@
 ﻿using System;
 using TMPro;
 using UnityEngine;
-
+ //этот код отвечает за  то, чтобы отобразить  посылаемый суда текст в субтитры и удалить его через время
 public class DeleteSub : MonoBehaviour
 {
  public TMP_Text sub;
@@ -13,6 +13,7 @@ public class DeleteSub : MonoBehaviour
   _sub = _subObj.GetComponent<TMP_Text>();
  }
 
+ //другие коды вызывют эту функцию, посылают суда  текст и время удаления
  public void deleteSub(string text,int time)
  {
   Statics.AudioNowPlay = 1;

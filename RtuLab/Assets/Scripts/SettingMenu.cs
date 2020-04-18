@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 using UnityStandardAssets.ImageEffects;
-
+//этот код отвечает за настройку меню, его кнопки
 public class SettingMenu : MonoBehaviour
 {
 
@@ -60,14 +60,17 @@ public class SettingMenu : MonoBehaviour
         StartCoroutine(waiter());
     }
      
+    //таймер для анимации
     IEnumerator waiter()
     { 
         Time.timeScale = 1f;
         yield return new WaitForSeconds(0.75f);
         Settings.SetActive(false);
     }
+    // ну тут все ясно
     public void RestartLevel()
     {
+  
         Statics.level = -1;
         _buttonSound.Play();
         Time.timeScale = 1f;   
@@ -82,6 +85,7 @@ public class SettingMenu : MonoBehaviour
         Time.timeScale = 1f;
     }
 
+    //галка для эффектиков
     public void ToggleChanger(bool Effects)
     {
         camera.GetComponent<BloomOptimized>().enabled = Effects;

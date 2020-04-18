@@ -1,7 +1,7 @@
 ﻿using TMPro;
 using UnityEngine;
 
-
+//этот код отвечает за то, чтобы воспроизводился звук при поподании в определенную область 
 public class PlayVoice : MonoBehaviour
 {
     AudioSource _mMyAudioSource;

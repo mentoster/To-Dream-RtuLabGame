@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Serialization;
-
-public class HealthUp : MonoBehaviour
+//этот код отвечает за количество  загрузки игры
+public class HealthManager : MonoBehaviour
 {
 
    public float health=0;
