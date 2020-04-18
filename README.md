@@ -1,8 +1,9 @@
 # To-Dream-RtuLabGame
 ## Способ установки игры:
 1. Скачать папку по ссылки.
-Ссылка на скачивание:[yandex disk](https://yadi.sk/d/UdppMT09PKsDfQ)
-2. Открыть папку и запустить ToDreamRtuLab.exe
+Ссылка на скачивание:[yandex disk](https://yadi.sk/d/rlarJES5tmPKnA)
+2. Распаковать архив в папку
+3. Открыть папку и запустить ToDreamRtuLab.exe
 
 ## Способ установки проекта:
 1. Скачать репозиторий.
