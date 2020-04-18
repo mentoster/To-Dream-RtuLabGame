@@ -39105,6 +39105,7 @@ GameObject:
   - component: {fileID: 200591042404397604}
   - component: {fileID: 1599867263674127834}
   - component: {fileID: 2361448581718483457}
+  - component: {fileID: 2361448581718483458}
   m_Layer: 0
   m_Name: Bowl holder
   m_TagString: Untagged
@@ -39139,6 +39140,19 @@ LODGroup:
     renderers:
     - renderer: {fileID: 458634486}
   m_Enabled: 1
+--- !u!65 &2361448581718483458
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2361448581718483456}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.8630229, y: 1.7776456, z: 0.8632071}
+  m_Center: {x: -2.485305e-24, y: 0.79819924, z: 8.208749e-16}
 --- !u!4 &2379234514949584093
 Transform:
   m_ObjectHideFlags: 0
